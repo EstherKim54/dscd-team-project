@@ -2,4 +2,4 @@
 |---------|------------|------------|
 | Minje | 22000077 | [github.com/EstherKim54/dscd-team-project](https://github.com/EstherKim54/dscd-team-project.git) |
 |  |  |  |
-|  |  |  |
+| HaGyeong  | 22100456 | [github.com/Miniohn/dscd-team-project](https://github.com/Miniohn/dscd-team-project.git) |
